@@ -2,5 +2,7 @@
 </script>
 
 <template>
-  <h1>hello Chaimae !!</h1>
+  <main>
+    <RouterView />
+  </main>
 </template>
